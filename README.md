@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhtsu&layout=compact&langs_count=8&hide_title=true" />
 </div>
 
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg">
 </div>
+-->
