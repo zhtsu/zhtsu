@@ -21,10 +21,8 @@ Here are some ideas to get you started:
   <img src="https://octodex.github.com/images/surftocat.png" width="320" height="320">
 </div>
 
-<div align="center">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=zhtsu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhtsu&layout=compact&langs_count=8&hide_title=true" />
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhtsu&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide_title=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhtsu&layout=compact&hide_border=true&hide=javascript&hide_title=true,html" /></a> |
+| ------------- | ------------- |
 
 <!--
 <div align="center">
