@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">
+<h1 align="center">
   Hey, I'm zhtsu!
-</h3>
+</h1>
 
 <div align="center">
   
