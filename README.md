@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
+<h3 align="center">
   Hey, I'm zhtsu!
-</h1>
+</h3>
 
 <div align="center">
-  <a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/surftocat.png" width="320" height="320" ></a>
+  
+| <a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/surftocat.png" width="180" height="180" ></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhtsu&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide_title=true" /></a> |
+| ------------- | ------------- |
+  
 </div>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhtsu&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide_title=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhtsu&layout=compact&hide_border=true&hide=javascript&hide_title=true,html" /></a> |
-| ------------- | ------------- |
+
