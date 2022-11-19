@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  Hey, I'm NoName!
+  Hey, I'm Noname!
 </h1>
 <h3 align="center">“ 24岁，是学生。”</h3>
 
