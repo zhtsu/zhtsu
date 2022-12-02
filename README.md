@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-| <a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/surftocat.png" width="180" height="180" ></a> | [![](https://github-readme-stats.vercel.app/api?username=zhtsu&show_icons=true&theme=default&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) |
+| <a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/surftocat.png" width="180" height="180" ></a> | [![](https://github-readme-stats.vercel.app/api?username=zhtsu&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
   
 </div>
