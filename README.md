@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   Hey, I'm zhtsu!
 </h1>
-<h3 align="center">“ 24岁，是学生。”</h3>
+<h3 align="center">Less is more.</h3>
 
 <div align="center">
   
