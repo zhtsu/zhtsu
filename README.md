@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">
   Hey, I'm zhtsu!
 </h1>
-<h3 align="center">Less is more.</h3>
 
 <div align="center">
   
