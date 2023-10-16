@@ -3,6 +3,7 @@ Hi there~ I'm zhtsu
 - 🔭 Work as an Unreal Engine Developer
 - 🌱 Currently learning Godot
 - 📺 Am an ACGer
+- 🧢 Enjoy wearing hats
 - 🥬 Favorite vegetable is cauliflower
 - 🍎 Favorite fruit is banana
 - 🚲 Favorite sport is cycling
