@@ -4,6 +4,7 @@ Hi there! I'm zhtsu
 - 🌱 Currently learning Godot
 - 📺 Am an ACGNer
 - 🧢 Enjoy wearing hats
+- 🧂 Don't like black pepper
 - 🥬 Favorite vegetable is cauliflower
 - 🍎 Favorite fruit is banana
 - 🚲 Favorite sport is cycling
