@@ -1,7 +1,7 @@
 Hi there! I'm zhtsu
 
 - 🔭 Work as an Unreal Engine Developer
-- 🌱 Currently learning ~~Godot~~Unity
+- 🌱 Currently learning ~~Godot~~ Unity
 - 📺 Am an ACGNer
 - 🧂 Don't like black pepper
 - 🎨 Want to be an artist
