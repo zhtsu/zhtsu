@@ -1,6 +1,6 @@
 Hi there! I'm zhtsu
 
-- 🔭 Work as an Unreal Engine Developer
+- 🔭 Work as an game developer with Unreal Engine
 - 🌱 Currently learning Godot
 - 📺 Am an ACGNer
 - 🧂 Don't like black pepper
